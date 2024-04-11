@@ -1,0 +1,35 @@
+body {
+  background-color: #ceba9d;
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+a {
+  color: green;
+  display: inline;
+  justify-content: space-evenly;
+  text-align: center;
+  margin: 20px;
+}
+
+.link-container {
+  padding: 20px;
+  margin: 0 auto;
+  text-align: center;
+  font-weight: bold;
+}
+
+.img-container {
+  margin: 0 auto;
+  text-align: center;
+}
+
+#email {
+  margin: 0;
+}
